@@ -10,7 +10,7 @@ programa
 	{
 		escreva("Bem vindo ao programa!\n")
 		
-		escreva("Insira um numero: ")
+		escreva("Insira um numero inteiro: ")
 		leia(numero)
 		
 		limpa()
