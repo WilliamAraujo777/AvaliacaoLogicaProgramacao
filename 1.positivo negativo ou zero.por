@@ -20,7 +20,7 @@ programa
 		}
 
 		senao se(numero < 0){
-			escreva("O numero: ", numero, " é negativo!")
+			escreva("O numero: ", numero, " é positivo!")
 		}
 
 		senao{
